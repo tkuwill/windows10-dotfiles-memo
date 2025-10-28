@@ -17,17 +17,19 @@ A TODO list after reinstalling windows.
 10. [Logi Options+*](https://www.logitech.com/zh-tw/software/logi-options-plus.html)
 11. [weasel 小狼毫輸入法*](https://github.com/rime/weasel)
 12. [Google 日本語入力*](https://www.google.co.jp/ime/)
-
-※Softwares with * mean you can install them by `winget`.
+13. [WinRAR*](https://www.win-rar.com/download.html?&L=0)
 
 ### MUST install command line tools & packages: 
 
-1. git 
-2. streamlink
-3. yt-dlp
-4. PowerShell 7 (win10 preinstalled psh's version is old.)
+1. git* 
+2. streamlink*
+3. yt-dlp*
+4. PowerShell 7* (win10 preinstalled psh's version is old.)
 5. winget (You may have to install it by yourself.)
-6. starship (For ricing)7. [Sarasa-Mono-TC-Nerd](https://github.com/AlexisKerib/Sarasa-Mono-TC-Nerd)
+6. starship* (For ricing)7. [Sarasa-Mono-TC-Nerd](https://github.com/AlexisKerib/Sarasa-Mono-TC-Nerd)
+8. zoxide*
+
+※Softwares with * mean you can install them by `winget`.
 
 ### PowerShell 's  config
 - [$PROFILE](https://github.com/tkuwill/windows10-dotfiles-memo/blob/master/Microsoft.PowerShell_profile.ps1)
