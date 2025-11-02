@@ -1,0 +1,117 @@
+   -                                                                                                                            -    \                                                                                                                         名稱                                     識別碼                                   版本                          來源
+-----------------------------------------------------------------------------------------------------------------------
+BlueStacks                               BlueStack.BlueStacks                     5.22.130.1019                 winget
+Git                                      Microsoft.Git                            2.51.2.0.0                    winget
+Microsoft Office 家用版 2019 - zh-tw     ARP\Machine\X64\HomeStudent2019Retail -… 16.0.19127.20302              
+Mozilla Thunderbird ESR (x64 zh-TW)      ARP\Machine\X64\Mozilla Thunderbird 140… 140.4.0                       
+Mozilla Maintenance Service              ARP\Machine\X64\MozillaMaintenanceServi… 140.4.0                       
+Notepad++ (64-bit x64)                   Notepad++.Notepad++                      8.8.7                         winget
+Microsoft OneDrive                       Microsoft.OneDrive                       25.194.1005.0003              winget
+Streamlink                               Streamlink.Streamlink                    7.6.0-1                       winget
+Uninstall Tool                           CrystalIDEASoftware.UninstallTool        3.8.0                         winget
+VLC media player                         VideoLAN.VLC                             3.0.21                        winget
+WinRAR 7.13 (64 位元)                    RARLab.WinRAR                            7.13.0                        winget
+Microsoft Update Health Tools            ARP\Machine\X64\{1FC1A6C2-576E-489A-9B4… 3.74.0.0                      
+Windows 電腦健康情況檢查                 ARP\Machine\X64\{5580AFA0-C9F3-40CD-97E… 4.0.2410.23001                
+Google 日本語入力                        Google.JapaneseIME                       2.32.5990.0                   winget
+Logi Options+                            Logitech.OptionsPlus                     1.97.791262                   winget
+Update for x64-based Windows Systems (K… ARP\Machine\X64\{B8D93870-98D1-4980-AFC… 8.94.0.0                      
+starship                                 Starship.Starship                        1.23.0                        winget
+Logi Plugin Service                      ARP\Machine\X64\{CDF9ADD1-985D-4827-98F… 6.2.3.1011                    
+PowerShell 7-x64                         Microsoft.PowerShell                     7.5.4.0                       winget
+Google Chrome                            Google.Chrome.EXE                        142.0.7444.60                 winget
+Microsoft Edge                           Microsoft.Edge                           142.0.3595.53                 winget
+小狼毫輸入法                             Rime.Weasel                              0.17.4.0                      winget
+Microsoft Visual C++ 2015-2022 Redistri… Microsoft.VCRedist.2015+.x64             14.44.35211.0                 winget
+BlueStacks Services                      ARP\User\X64\BlueStacksServices          3.0.9                         
+lazygit                                  JesseDuffield.lazygit                    0.55.1                        winget
+zoxide                                   ajeetdsouza.zoxide                       0.9.8                         winget
+fzf                                      junegunn.fzf                             0.66.0                        winget
+bat                                      sharkdp.bat                              0.26.0                        winget
+FFmpeg for yt-dlp                        yt-dlp.FFmpeg                            N-121583-g4348bde2d2-20251031 winget
+yt-dlp                                   yt-dlp.yt-dlp                            2025.10.22                    winget
+ThunderboltTM 控制中心                   MSIX\AppUp.ThunderboltControlCenter_1.0… 1.0.37.0                      
+Apple Music                              MSIX\AppleInc.AppleMusicWin_1.1536.2867… 1.1536.28673.0                
+MyASUS                                   MSIX\B9ECED6F.ASUSPCAssistant_4.0.49.0_… 4.0.49.0                      
+Cortana                                  MSIX\Microsoft.549981C3F5F10_4.2308.100… 4.2308.1005.0                 
+Microsoft Bing                           MSIX\Microsoft.BingSearch_1.1.40.0_x64_… 1.1.40.0                      
+MSN 天氣                                 MSIX\Microsoft.BingWeather_4.54.63029.0… 4.54.63029.0                  
+Copilot                                  MSIX\Microsoft.Copilot_1.25102.233.0_x6… 1.25102.233.0                 
+應用程式安裝程式                         Microsoft.AppInstaller                   1.26.510.0                    winget
+取得協助                                 MSIX\Microsoft.GetHelp_10.2409.32612.0_… 10.2409.32612.0               
+Microsoft 提示                           MSIX\Microsoft.Getstarted_8.2.22942.0_x… 8.2.22942.0                   
+HEIF 影像延伸模組                        MSIX\Microsoft.HEIFImageExtension_1.2.2… 1.2.23.0                      
+English (United States) Local Experienc… MSIX\Microsoft.LanguageExperiencePacken… 19041.3.3.0                   
+日本語 ローカル エクスペリエンス パック  MSIX\Microsoft.LanguageExperiencePackja… 19041.80.275.0                
+中文(简体)本地体验包                     MSIX\Microsoft.LanguageExperiencePackzh… 19041.81.277.0                
+中文 (繁體) 當地體驗套件                 MSIX\Microsoft.LanguageExperiencePackzh… 19041.80.279.0                
+小畫家 3D                                MSIX\Microsoft.MSPaint_6.1907.29027.0_x… 6.1907.29027.0                
+3D 檢視器                                MSIX\Microsoft.Microsoft3DViewer_7.2506… 7.2506.10022.0                
+Microsoft Edge                           MSIX\Microsoft.MicrosoftEdge.Stable_141… 141.0.3537.99                 
+Microsoft 365 Copilot                    MSIX\Microsoft.MicrosoftOfficeHub_19.25… 19.2510.53081.0               
+Solitaire & Casual Games                 MSIX\Microsoft.MicrosoftSolitaireCollec… 4.23.10160.0                  
+Microsoft 自黏便箋                       MSIX\Microsoft.MicrosoftStickyNotes_6.1… 6.1.4.0                       
+混合實境入口網站                         MSIX\Microsoft.MixedReality.Portal_2000… 2000.21051.1282.0             
+Microsoft .Net Native Framework Package… MSIX\Microsoft.NET.Native.Framework.1.7… 1.7.27413.0                   
+Microsoft .Net Native Framework Package… MSIX\Microsoft.NET.Native.Framework.1.7… 1.7.27413.0                   
+Microsoft .Net Native Framework Package… MSIX\Microsoft.NET.Native.Framework.2.1… 2.1.27427.0                   
+Microsoft .Net Native Framework Package… MSIX\Microsoft.NET.Native.Framework.2.1… 2.1.27427.0                   
+Microsoft .Net Native Framework Package… MSIX\Microsoft.NET.Native.Framework.2.2… 2.2.29512.0                   
+Microsoft .Net Native Framework Package… MSIX\Microsoft.NET.Native.Framework.2.2… 2.2.29512.0                   
+Microsoft .Net Native Runtime Package 1… MSIX\Microsoft.NET.Native.Runtime.1.7_1… 1.7.27422.0                   
+Microsoft .Net Native Runtime Package 1… MSIX\Microsoft.NET.Native.Runtime.1.7_1… 1.7.27422.0                   
+Microsoft .Net Native Runtime Package 2… MSIX\Microsoft.NET.Native.Runtime.2.1_2… 2.1.26424.0                   
+Microsoft .Net Native Runtime Package 2… MSIX\Microsoft.NET.Native.Runtime.2.1_2… 2.1.26424.0                   
+Microsoft .Net Native Runtime Package 2… MSIX\Microsoft.NET.Native.Runtime.2.2_2… 2.2.28604.0                   
+Microsoft .Net Native Runtime Package 2… MSIX\Microsoft.NET.Native.Runtime.2.2_2… 2.2.28604.0                   
+Microsoft.Office.ActionsServer           MSIX\Microsoft.Office.ActionsServer_16.… 16.0.19127.20302              
+OneNote for Windows 10                   MSIX\Microsoft.Office.OneNote_16001.143… 16001.14326.22594.0           
+OfficePushNotificationsUtility           MSIX\Microsoft.OfficePushNotificationUt… 16.0.19127.20302              
+Outlook for Windows                      MSIX\Microsoft.OutlookForWindows_1.2025… 1.2025.1007.0                 
+Microsoft 連絡人                         MSIX\Microsoft.People_10.2202.100.0_x64… 10.2202.100.0                 
+剪取與繪圖                               MSIX\Microsoft.ScreenSketch_10.2008.300… 10.2008.3001.0                
+Microsoft Store 體驗主機                 MSIX\Microsoft.StorePurchaseApp_22509.1… 22509.1401.1.0                
+Microsoft.UI.Xaml.2.0                    MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004… 2.1810.18004.0                
+Microsoft.UI.Xaml.2.3                    MSIX\Microsoft.UI.Xaml.2.3_2.32002.1300… 2.32002.13001.0               
+Microsoft.UI.Xaml.2.3                    MSIX\Microsoft.UI.Xaml.2.3_2.32002.1300… 2.32002.13001.0               
+Microsoft.UI.Xaml.2.4                    MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001… 2.42007.9001.0                
+Microsoft.UI.Xaml.2.4                    MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001… 2.42007.9001.0                
+Microsoft.UI.Xaml.2.7                    Microsoft.UI.Xaml.2.7                    7.2409.9001.0                 winget
+Microsoft.UI.Xaml.2.7                    Microsoft.UI.Xaml.2.7                    7.2409.9001.0                 winget
+Microsoft.UI.Xaml.2.8                    Microsoft.UI.Xaml.2.8                    8.2501.31001.0                winget
+Microsoft.UI.Xaml.2.8                    Microsoft.UI.Xaml.2.8                    8.2501.31001.0                winget
+Microsoft Visual C++ 2015 UWP Desktop R… Microsoft.VCLibs.Desktop.14              14.0.33728.0                  winget
+Microsoft Visual C++ 2015 UWP Desktop R… Microsoft.VCLibs.Desktop.14              14.0.33728.0                  winget
+Microsoft Visual C++ 2015 UWP Runtime P… MSIX\Microsoft.VCLibs.140.00_14.0.27323… 14.0.27323.0                  
+Microsoft Visual C++ 2015 UWP Runtime P… MSIX\Microsoft.VCLibs.140.00_14.0.33519… 14.0.33519.0                  
+Microsoft Visual C++ 2015 UWP Runtime P… MSIX\Microsoft.VCLibs.140.00_14.0.33519… 14.0.33519.0                  
+VP9 Video Extensions                     MSIX\Microsoft.VP9VideoExtensions_1.2.6… 1.2.6.0                       
+Microsoft Pay                            MSIX\Microsoft.Wallet_2.4.18324.0_x64__… 2.4.18324.0                   
+網路媒體延伸模組                         MSIX\Microsoft.WebMediaExtensions_1.2.1… 1.2.14.0                      
+WebP 影像延伸模組                        MSIX\Microsoft.WebpImageExtension_1.2.1… 1.2.10.0                      
+Windows Advanced Settings                MSIX\Microsoft.Windows.DevHome_0.2100.8… 0.2100.858.0                  
+Microsoft 相片                           MSIX\Microsoft.Windows.Photos_2025.1110… 2025.11100.9001.0             
+Windows 時鐘                             MSIX\Microsoft.WindowsAlarms_11.2507.1.… 11.2507.1.0                   
+WindowsAppRuntime.1.5                    MSIX\Microsoft.WindowsAppRuntime.1.5_50… 5001.373.1736.0               
+WindowsAppRuntime.1.5                    MSIX\Microsoft.WindowsAppRuntime.1.5_50… 5001.373.1736.0               
+WindowsAppRuntime.1.7                    MSIX\Microsoft.WindowsAppRuntime.1.7_70… 7000.652.1806.0               
+WindowsAppRuntime.1.7                    MSIX\Microsoft.WindowsAppRuntime.1.7_70… 7000.652.1806.0               
+Windows 小算盤                           MSIX\Microsoft.WindowsCalculator_11.250… 11.2508.1.0                   
+Windows 相機                             MSIX\Microsoft.WindowsCamera_2025.2505.… 2025.2505.2.0                 
+意見反應中樞                             MSIX\Microsoft.WindowsFeedbackHub_1.251… 1.2510.14102.0                
+Windows 地圖                             MSIX\Microsoft.WindowsMaps_11.2506.3.0_… 11.2506.3.0                   
+Windows 語音錄音機                       MSIX\Microsoft.WindowsSoundRecorder_10.… 10.2103.28.0                  
+Microsoft Store                          MSIX\Microsoft.WindowsStore_22509.1401.… 22509.1401.11.0               
+Windows 終端機                           Microsoft.WindowsTerminal                1.23.12811.0                  winget
+Windows Package Manager Source (winget)… MSIX\Microsoft.Winget.Source_2025.1102.… 2025.1102.2103.37             
+Xbox TCUI                                MSIX\Microsoft.Xbox.TCUI_1.24.10001.0_x… 1.24.10001.0                  
+Xbox 主機小幫手                          MSIX\Microsoft.XboxApp_48.104.4001.0_x6… 48.104.4001.0                 
+Xbox Game Bar Plugin                     MSIX\Microsoft.XboxGameOverlay_1.54.400… 1.54.4001.0                   
+Game Bar                                 MSIX\Microsoft.XboxGamingOverlay_7.325.… 7.325.10021.0                 
+Xbox Identity Provider                   MSIX\Microsoft.XboxIdentityProvider_12.… 12.130.16001.0                
+Xbox Game Speech Window                  MSIX\Microsoft.XboxSpeechToTextOverlay_… 1.21.13002.0                  
+手機連結                                 MSIX\Microsoft.YourPhone_1.25072.79.0_x… 1.25072.79.0                  
+Windows 媒體播放器                       MSIX\Microsoft.ZuneMusic_11.2509.7.0_x6… 11.2509.7.0                   
+電影與電視                               MSIX\Microsoft.ZuneVideo_10.25081.10131… 10.25081.10131.0              
+Realtek Audio Control                    MSIX\RealtekSemiconductorCorp.RealtekAu… 1.1.137.0                     
+Local Artificial Intelligence Manager    MSIX\aimgr_0.20.18.0_x64__8wekyb3d8bbwe  0.20.18.0                     
