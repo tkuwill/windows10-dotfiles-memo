@@ -27,12 +27,29 @@ A TODO list after reinstalling windows.
 4. PowerShell 7* (win10 preinstalled psh's version is old.)
 5. winget (You may have to install it by yourself.)
 6. starship* (For ricing)7. [Sarasa-Mono-TC-Nerd](https://github.com/AlexisKerib/Sarasa-Mono-TC-Nerd)
-8. zoxide*
+8. zoxide*9. bat*
+10. fzf*
 
 ※Softwares with * mean you can install them by `winget`.
 
 ### PowerShell 's  config
 - [$PROFILE](https://github.com/tkuwill/windows10-dotfiles-memo/blob/master/Microsoft.PowerShell_profile.ps1)
 
+### Some config before using the PowerShell scripts 
 
-
+1. Create a new directory `C:\bin`
+2. copy `yt-dlp.exe` `ffmpeg.exe` `ffprobe.exe` into `C:\bin`.(This should do every time when `yt-dlp` or `ffmpeg` is updated.)
+3. Follow below：
+	1.	開啟系統屬性視窗：
+		-	按下 Win 鍵 + S，搜尋 "環境變數"。
+		-	點選 "編輯系統環境變數"。
+		-	在彈出的「系統內容」視窗中，點擊右下角的 「環境變數(N)...」 按鈕。
+	2.	編輯 Path 系統變數：
+		-	在下方 「系統變數」 的列表中，找到並點選 Path 變數。
+		-	點擊 「編輯(I)...」 按鈕。
+	3.	新增路徑：
+		-	在「編輯環境變數」的視窗中，點擊 「新增(N)」。
+		-	輸入您在步驟二中建立的目錄的 完整路徑，例如：`C:\bin`。
+		-	按下 Enter 鍵確認。
+	4.	儲存並退出：
+		-	一路點擊 「確定」 關閉所有視窗（「編輯環境變數」→「環境變數」→「系統內容」）。
