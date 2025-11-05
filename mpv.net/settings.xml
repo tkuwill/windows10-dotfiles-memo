@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <InputDefaultBindingsFixApplied>true</InputDefaultBindingsFixApplied>
+    <ShowMenuFixApplied>true</ShowMenuFixApplied>
+    <MenuUpdateVersion>0</MenuUpdateVersion>
+    <Volume>70</Volume>
+    <RecentFiles>
+        <string>https://www.youtube.com/watch?v=A9No_Az-B7w|【天体ライブ】スーパームーン×おうし座南流星群 2025年11月5日(水) 21:00〜／最も大きく見える満月と流星の共演〈ウェザーニュースLiVE 戸北美月〉 2025-11-05 22:30</string>
+        <string>https://www.youtube.com/watch?v=A9No_Az-B7w|【天体ライブ】スーパームーン×おうし座南流星群 2025年11月5日(水) 21:00〜／最も大きく見える満月と流星の共演〈ウェザーニュースLiVE 戸北美月〉 2025-11-05 22:29</string>
+        <string>https://www.youtube.com/watch?v=sspUwiMe7I0|【天体ライブ】スーパームーン×おうし座南流星群 2025 特別番組 2025年11月5日(水) 22:00〜／最も大きく見える満月と流星の共演〈ウェザーニュースLiVE 山岸愛梨・小林李衣奈〉 2025-11-05 21:24</string>
+        <string>https://www.youtube.com/watch?v=sspUwiMe7I0|【天体ライブ】スーパームーン×おうし座南流星群 2025 特別番組 2025年11月5日(水) 22:00〜／最も大きく見える満月と流星の共演〈ウェザーニュースLiVE 山岸愛梨・小林李衣奈〉 2025-11-05 21:19</string>
+        <string>https://www.youtube.com/watch?v=f9TRhIvnDlM|【市場銷售霸主 小改有感嗎？】Toyota Corolla Cross GR Sport 油電/汽油 試駕！養車成本攤開報你知！為什麼運將大哥都選油電？！</string>
+        <string>https://www.youtube.com/watch?v=A9No_Az-B7w|【天体ライブ】スーパームーン×おうし座南流星群 2025年11月5日(水) 21:00〜／最も大きく見える満月と流星の共演〈ウェザーニュースLiVE 戸北美月〉 2025-11-05 20:44</string>
+        <string>https://www.youtube.com/watch?v=A9No_Az-B7w|【天体ライブ】スーパームーン×おうし座南流星群 2025年11月5日(水) 21:00〜／最も大きく見える満月と流星の共演〈ウェザーニュースLiVE 戸北美月〉 2025-11-05 20:33</string>
+    </RecentFiles>
+    <WindowLocation>
+        <X>1</X>
+        <Y>1</Y>
+    </WindowLocation>
+    <WindowPosition>
+        <X>1856</X>
+        <Y>1190</Y>
+    </WindowPosition>
+    <WindowSize>
+        <Width>1088</Width>
+        <Height>612</Height>
+    </WindowSize>
+    <AudioDevice />
+    <ConfigEditorSearch>quitq</ConfigEditorSearch>
+    <Mute>no</Mute>
+    <StartupFolder />
+</AppSettings>
